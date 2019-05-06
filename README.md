@@ -1,2 +1,3 @@
 # Demo
-MVC application  
+MVC application 
+Basic curd application
